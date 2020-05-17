@@ -1,0 +1,20 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+yarn-debug.log*
+yarn-error.log*
+
+# Watchman
+.watchmanconfig
+
+# Node
+node_modules
+# *.log
+# .nvm
+# /bots/node_modules/
+# package-lock.json
+
+# OS X
+.DS_Store
